@@ -13,8 +13,8 @@ A modular Laravel application for integrating and testing multiple third-party A
 | API     | Status   | Description                            |
 |---------|----------|----------------------------------------|
 | Weather | ✅ Done   | Fetch current weather by city name     |
-| News    | 🚧 Planned | Display top headlines by country/topic |
-| Currency| 🚧 Planned | Convert currencies using live rates    |
+| Pusher    | 🚧 Planned | Real-time event broadcasting using Pusher |
+| Stripe| 🚧 Planned | Handle payments, subscriptions, and webhooks    |
 
 ---
 
